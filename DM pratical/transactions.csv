@@ -1,0 +1,5 @@
+transaction_id,trip_id,payment_mode,status
+TX001,T001,UPI,Success
+TX002,T002,Credit Card,Failed
+TX003,T003,Cash,Success
+TX004,T004,Wallet,Success
